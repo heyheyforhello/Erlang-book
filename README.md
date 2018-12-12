@@ -1,3 +1,4 @@
-# My Awesome Book
+# Erlang notes
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This notes gives key notations required for Erlang programming.
+
